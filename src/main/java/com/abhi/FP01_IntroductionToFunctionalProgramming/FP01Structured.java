@@ -1,4 +1,4 @@
-package com.abhi.IntroductionToFunctionalProgramming;
+package com.abhi.FP01_IntroductionToFunctionalProgramming;
 
 import java.util.List;
 

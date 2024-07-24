@@ -1,9 +1,9 @@
-package com.abhi.IntroductionToFunctionalProgramming.Excercise;
+package com.abhi.FP01_IntroductionToFunctionalProgramming.Excercise;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class Excercies_5 {
+public class Excercise_5 {
 
     public static void main(String[] args) {
 
